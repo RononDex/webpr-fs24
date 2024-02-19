@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "eslint": "^8.56.0"
+  },
+  "devDependencies": {
+    "eslint-config-react-app": "^7.0.1"
+  }
+}
